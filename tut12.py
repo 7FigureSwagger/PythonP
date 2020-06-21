@@ -1,3 +1,14 @@
 num1 = float(input("Enter first number: "))
 op =  input("Input an operator: ")
-num3  = float(input("Enter second number: "))
+num2  = float(input("Enter second number: "))
+
+if op == "+":
+  print(num1 + num2)
+elif op == "-":
+  print(num1 - num2)
+elif op == "/":
+  print(num1 / num2)
+elif op == "*":
+  print(num1 * num2)
+else: 
+  print("Invalid operator")
