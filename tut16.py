@@ -17,3 +17,10 @@ friends = ["Jon", "Jacob", "Jim"]
 #Grabbing the value of 3 from the length of the friends array
 for index in range(len(friends)): 
   print(friends[index])
+
+
+for index in range(5): 
+  if index == 0:
+    print("first pass")
+  else:
+    print("not first")
