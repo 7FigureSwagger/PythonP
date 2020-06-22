@@ -1,0 +1,4 @@
+Jim - Salesman
+Dwight - Salesman
+Oscar - Accountant
+Michael - Manager
